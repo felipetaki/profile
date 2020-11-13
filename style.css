@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.0.10/css/all.css');
+
+h1 {
+    color: rgb(223, 220, 228);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    text-align: center;
+  }
+
+h2 {
+    color: rgb(223, 220, 228);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    text-align: center;
+   }
+
+img{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+  }
+
+.bioimage {
+    text-align: center;
+  }
+
+body {
+    background-color: rgb(22, 2, 36);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(244, 245, 250);
+    font-size: 100%;
+    text-align: center;
+}
+
+li {
+    color: rgb(207, 206, 212);
+    text-decoration: none;
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+a  {
+    color: rgb(229, 227, 235);
+   }
+      
+a:hover {
+    color: rgb(166, 156, 184);
+        }
